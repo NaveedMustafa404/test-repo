@@ -1,3 +1,3 @@
 console.log("hello world");
-
-// git add "file name" likhe stage korte hbe then, commit krte hbe 
+console.log("Hello from the othe side");
+// git add "file name" likhe stage korte hbe then, commit krte hbe
